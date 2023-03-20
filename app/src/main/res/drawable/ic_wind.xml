@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:width="277.86dp"
+    android:height="199.81dp"
+    android:viewportWidth="277.86"
+    android:viewportHeight="199.81">
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="@string/wind_shape"
+        tools:ignore="VectorPath" />
+</vector>
